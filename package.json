@@ -56,7 +56,7 @@
     "envify": "^4.1.0",
     "event-cleanup": "^1.0.3",
     "get-browser-rtc": "^1.0.2",
-    "got": "^14.4.3",
+    "got": "^15.0.0",
     "merkle-lib": "^2.0.10",
     "object-assign": "^4.1.0",
     "old": "^0.2.0",
