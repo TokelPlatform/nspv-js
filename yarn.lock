@@ -2559,10 +2559,10 @@ merge-descriptors@~1.0.0:
   resolved "https://registry.npmjs.org/merge-descriptors/-/merge-descriptors-1.0.3.tgz"
   integrity sha512-gaNvAS7TZ897/rVaZ0nMtAyxNyi/pdbjbAwUpFQpN70GqnVfOiXpeUUMKRBmzXaSQ8DdTX4/0ms62r2K+hE6mQ==
 
-merkle-lib@^2.0.10:
-  version "2.0.10"
-  resolved "https://registry.npmjs.org/merkle-lib/-/merkle-lib-2.0.10.tgz"
-  integrity sha512-XrNQvUbn1DL5hKNe46Ccs+Tu3/PYOlrcZILuGUhb95oKBPjc/nmIC8D462PQkipVDGKRvwhn+QFg2cCdIvmDJA==
+merkle-lib@^2.0.11:
+  version "2.0.11"
+  resolved "https://registry.yarnpkg.com/merkle-lib/-/merkle-lib-2.0.11.tgz#6e12e422c8ee3b8c7b7cb145d1ca0295e433118b"
+  integrity sha512-HOZyjG9A1d3OVI0WMsS5iCqZ0a6sfS6fysy4hGPB9Vo6aCxLmbwAKAn6HGBayk6e6jPhpVU5LBFI0+Ha9nSm0w==
 
 mimic-response@^4.0.0:
   version "4.0.0"
