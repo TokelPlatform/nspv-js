@@ -776,9 +776,9 @@ buffer@^6.0.3:
     base64-js "^1.3.1"
     ieee754 "^1.2.1"
 
-bufferutil@^4.2.0:
+bufferutil@^4.0.3:
   version "4.2.0"
-  resolved "https://registry.yarnpkg.com/bufferutil/-/bufferutil-4.2.0.tgz#1abe5ba474e096c7e3b00c2513ba631dc8a17010"
+  resolved "https://registry.npmjs.org/bufferutil/-/bufferutil-4.2.0.tgz"
   integrity sha512-gyy58jET9kst2IGyBKb96a4Y2bPGTHXGyCd0/1eqIV3hr1Sz3VxtA8n7bXh8fLIuE2K6Z0Upax5a5Msx+HU1IQ==
   dependencies:
     node-gyp-build "^4.3.0"
@@ -3783,10 +3783,10 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
-utf-8-validate@^6.0.3:
-  version "6.0.6"
-  resolved "https://registry.npmjs.org/utf-8-validate/-/utf-8-validate-6.0.6.tgz"
-  integrity sha512-q3l3P9UtEEiAHcsgsqTgf9PPjctrDWoIXW3NpOHFdRDbLvu4DLIcxHangJ4RLrWkBcKjmcs/6NkerI8T/rE4LA==
+utf-8-validate@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/utf-8-validate/-/utf-8-validate-6.1.0.tgz#a541c3041319a07f7f49f14f403acd518c030587"
+  integrity sha512-+VqK0s7hdUuvL95ExzfqCqvsuA2A+3KzNYibPeeDnGU9L5onk8CY5/H30kCHLpVMzEh6HV9Dv8uw+E+Mz4X/dA==
   dependencies:
     node-gyp-build "^4.3.0"
 
